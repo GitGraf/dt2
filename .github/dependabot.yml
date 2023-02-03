@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "ic-frontend"
+    target-branch: "vsic_1236_testing"
+    schedule:
+      interval: "daily"
